@@ -19,7 +19,7 @@ fun main(){
     println("Digite a quarta nota: ")
     var Nota4: Double = readLine().toString().toDouble()
     
-    var media = (Nota1 + Nota2 + Nota3 + Nota4) / Nota4
+    var media = (Nota1 + Nota2 + Nota3 + Nota4) / 4
     
     if (media >= 7){
         println("Aluno aprovado com média $media")
