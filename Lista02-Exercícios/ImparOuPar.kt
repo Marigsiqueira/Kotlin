@@ -1,7 +1,6 @@
 /******************************************************************************
 
-Faça um programa na Linguagem Kotlin que receba um número e mostre o fatorial 
-desse número.
+Faça um programa na Linguagem Kotlin que receba um número e mostre se ele é ímpar ou par.
 
 *******************************************************************************/
 
