@@ -32,7 +32,7 @@ fun main(){
     println("Nome: ${funcionario.nome}")
     println("Salário líquido: R$ ${funcionario.salarioLiquido()}") 
 
-    print("Digite a porcentagem de aumento: ")
+    println("Digite a porcentagem de aumento: ")
     var porcentagem: Double
     porcentagem = readLine().toString().toDouble()
     funcionario.aumentarSalario(porcentagem)
